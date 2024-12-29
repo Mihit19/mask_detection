@@ -1,0 +1,1 @@
+ E:\\mask\ detection\\.dart_tool\\flutter_build\\b299ab6e413ed29051c891f6c650eb6b\\native_assets.yaml: 

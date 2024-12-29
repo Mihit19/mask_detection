@@ -1,0 +1,30 @@
+com.example.mask_detection.app-jetified-core-1.0.0-0 C:\Users\mrmih\.gradle\caches\transforms-3\0642a1ef44da6c9d8c9ca2e18180b611\transformed\jetified-core-1.0.0\res
+com.example.mask_detection.app-lifecycle-viewmodel-2.7.0-1 C:\Users\mrmih\.gradle\caches\transforms-3\0933e1c51dd00551aa50b9c08746abca\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.mask_detection.app-jetified-lifecycle-livedata-core-ktx-2.7.0-2 C:\Users\mrmih\.gradle\caches\transforms-3\1a03ae2ad991e043ae5fade6a3b90085\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.mask_detection.app-lifecycle-livedata-core-2.7.0-3 C:\Users\mrmih\.gradle\caches\transforms-3\1e4d56216e8b96be66ffda433f3d52fa\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.mask_detection.app-core-1.13.1-4 C:\Users\mrmih\.gradle\caches\transforms-3\2761b3cc3268612a36f4ed5e61bfdf00\transformed\core-1.13.1\res
+com.example.mask_detection.app-jetified-window-1.2.0-5 C:\Users\mrmih\.gradle\caches\transforms-3\2aff8804fdc9db846c5107ef12349b8c\transformed\jetified-window-1.2.0\res
+com.example.mask_detection.app-jetified-tracing-1.2.0-6 C:\Users\mrmih\.gradle\caches\transforms-3\2d2030b3f8cec56afc489bfb0631d834\transformed\jetified-tracing-1.2.0\res
+com.example.mask_detection.app-jetified-activity-1.9.2-7 C:\Users\mrmih\.gradle\caches\transforms-3\2dff65aef10dbfce374a13ed08128852\transformed\jetified-activity-1.9.2\res
+com.example.mask_detection.app-jetified-core-ktx-1.13.1-8 C:\Users\mrmih\.gradle\caches\transforms-3\373fa88a6a86caaa8bf89dd583eee3b5\transformed\jetified-core-ktx-1.13.1\res
+com.example.mask_detection.app-jetified-savedstate-1.2.1-9 C:\Users\mrmih\.gradle\caches\transforms-3\4ea40c480f119dc46fce1a1625c26d87\transformed\jetified-savedstate-1.2.1\res
+com.example.mask_detection.app-jetified-lifecycle-process-2.7.0-10 C:\Users\mrmih\.gradle\caches\transforms-3\6f939cb6d0411b3a84e016919eff5221\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.mask_detection.app-fragment-1.7.1-11 C:\Users\mrmih\.gradle\caches\transforms-3\85072b15cd69ecd8b2d4b82ab9d8949a\transformed\fragment-1.7.1\res
+com.example.mask_detection.app-core-runtime-2.2.0-12 C:\Users\mrmih\.gradle\caches\transforms-3\8dc931daddc1a751224d7fe09e98657f\transformed\core-runtime-2.2.0\res
+com.example.mask_detection.app-jetified-window-java-1.2.0-13 C:\Users\mrmih\.gradle\caches\transforms-3\9b058ad4430eed323bcdc67bc01328d5\transformed\jetified-window-java-1.2.0\res
+com.example.mask_detection.app-jetified-profileinstaller-1.3.1-14 C:\Users\mrmih\.gradle\caches\transforms-3\9e45e726127c5fb098668c604df24ba2\transformed\jetified-profileinstaller-1.3.1\res
+com.example.mask_detection.app-lifecycle-runtime-2.7.0-15 C:\Users\mrmih\.gradle\caches\transforms-3\b43f9fccc88b782d2b7ff178b2a919cc\transformed\lifecycle-runtime-2.7.0\res
+com.example.mask_detection.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-16 C:\Users\mrmih\.gradle\caches\transforms-3\c60e74a56bcdf10760994c99550d2101\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.mask_detection.app-lifecycle-livedata-2.7.0-17 C:\Users\mrmih\.gradle\caches\transforms-3\c8ce6a099ff79dc355e67d9f92cb43ba\transformed\lifecycle-livedata-2.7.0\res
+com.example.mask_detection.app-jetified-annotation-experimental-1.4.0-18 C:\Users\mrmih\.gradle\caches\transforms-3\e9a015b6a6e9fe36e259a5149a0b3326\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.mask_detection.app-jetified-startup-runtime-1.1.1-19 C:\Users\mrmih\.gradle\caches\transforms-3\f0339fe3cc77dc6d8b973a82c7f1f54b\transformed\jetified-startup-runtime-1.1.1\res
+com.example.mask_detection.app-main-20 E:\mask detection\android\app\src\main\res
+com.example.mask_detection.app-release-21 E:\mask detection\android\app\src\release\res
+com.example.mask_detection.app-pngs-22 E:\mask detection\build\app\generated\res\pngs\release
+com.example.mask_detection.app-resValues-23 E:\mask detection\build\app\generated\res\resValues\release
+com.example.mask_detection.app-rs-24 E:\mask detection\build\app\generated\res\rs\release
+com.example.mask_detection.app-mergeReleaseResources-25 E:\mask detection\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.mask_detection.app-mergeReleaseResources-26 E:\mask detection\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.mask_detection.app-merged_res-27 E:\mask detection\build\app\intermediates\merged_res\release
+com.example.mask_detection.app-packaged_res-28 E:\mask detection\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+com.example.mask_detection.app-packaged_res-29 E:\mask detection\build\image_picker_android\intermediates\packaged_res\release
